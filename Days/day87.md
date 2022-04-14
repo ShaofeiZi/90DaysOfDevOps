@@ -11,7 +11,7 @@ id: 1048717
 
 In the last session we touched on [Kopia](https://kopia.io/) an Open-Source backup tool that we used to get some important data off to a local NAS and off to some cloud based object storage. 
 
-In this section, I want to get into the world of Kubernetes backup. It is a platform we covered [The Big Picture: Kubernetes](Days/day49.md) earlier in the challenge. 
+In this section, I want to get into the world of Kubernetes backup. It is a platform we covered [大局观: Kubernetes](Days/day49.md) earlier in the challenge. 
 
 We will again be using our minikube cluster but this time we are going to take advantage of some of those addons that are available. 
 

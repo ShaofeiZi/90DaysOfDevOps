@@ -9,7 +9,7 @@ id: 1049056
 ---
 ## Hands-On Monitoring Tools
 
-In the last session, I spoke about the big picture of monitoring and I took a look into Nagios, there was two reasons for doing this. The first was this is a peice of software I have heard a lot of over the years so wanted to know a little more about its capabilities. 
+In the last session, I spoke about 大局观 of monitoring and I took a look into Nagios, there was two reasons for doing this. The first was this is a peice of software I have heard a lot of over the years so wanted to know a little more about its capabilities. 
 
 Today I am going to be going into Prometheus, I have seen more and more of Prometheus in the Cloud-Native landscape but it can also be used to look after those physical resources as well outside of Kubernetes and the like. 
 

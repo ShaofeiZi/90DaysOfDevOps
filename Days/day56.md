@@ -1,13 +1,13 @@
 ---
-title: '#90DaysOfDevOps - The Big Picture: IaC - Day 56'
+title: '#90DaysOfDevOps - 大局观: IaC - Day 56'
 published: false
-description: 90DaysOfDevOps - The Big Picture IaC
+description: 90DaysOfDevOps - 大局观 IaC
 tags: "devops, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048709
 ---
-## The Big Picture: IaC
+## 大局观: IaC
 
 Humans make mistakes! Automation is the way to go! 
 

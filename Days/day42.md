@@ -1,19 +1,19 @@
 ---
-title: '#90DaysOfDevOps - The Big Picture: Containers - Day 42'
+title: '#90DaysOfDevOps - 大局观: Containers - Day 42'
 published: false
-description: 90DaysOfDevOps - The Big Picture Containers
+description: 90DaysOfDevOps - 大局观 Containers
 tags: "devops, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048826
 ---
-## The Big Picture: Containers
+## 大局观: Containers
 
 We are now starting the next section and this section is going to be focused on containers in particular we are going to be looking into Docker getting into some of the key areas to understand more about Containers. 
 
 I will also be trying to get some hands-on here to create the container that we can use during this section but also future sections later on in the challenge. 
 
-As always this first post is going to be focused on the big picture of how we got here and what it all means. 
+As always this first post is going to be focused on 大局观 of how we got here and what it all means. 
 
 #History of platforms and application development
 #do we want to talk about Virtualisation & Containerisation 

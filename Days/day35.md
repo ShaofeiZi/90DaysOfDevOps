@@ -1,13 +1,13 @@
 ---
-title: '#90DaysOfDevOps - The Big Picture: Git - Version Control - Day 35'
+title: '#90DaysOfDevOps - 大局观: Git - Version Control - Day 35'
 published: false
-description: 90DaysOfDevOps - The Big Picture Git - Version Control
+description: 90DaysOfDevOps - 大局观 Git - Version Control
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
 id: 1049041
 ---
-## The Big Picture: Git - Version Control
+## 大局观: Git - Version Control
 
 Before we get into git, we need to understand what version control is and why? In this opener for Git, we will take a look at what version control is, the basics of git.  
 
@@ -124,7 +124,7 @@ The TLDR;
 - Oh and there is some time travel! 
 
 
-This might have seemed a jump around but hopefully, you can see without really knowing the commands used the powers and the big picture behind Version Control. 
+This might have seemed a jump around but hopefully, you can see without really knowing the commands used the powers and 大局观 behind Version Control. 
 
 Next up we will be getting git installed and set up on your local machine and diving a little deeper into some other use cases and commands that we can achieve in Git. 
 

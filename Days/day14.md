@@ -1,13 +1,13 @@
 ---
-title: '#90DaysOfDevOps - The Big Picture: DevOps and Linux - Day 14'
+title: '#90DaysOfDevOps - 大局观: DevOps and Linux - Day 14'
 published: false
-description: 90DaysOfDevOps - The Big Picture DevOps and Linux
+description: 90DaysOfDevOps - 大局观 DevOps and Linux
 tags: 'devops, 90daysofdevops, learning'
 cover_image: null
 canonical_url: null
 id: 1049033
 ---
-## The Big Picture: DevOps and Linux
+## 大局观: DevOps and Linux
 Linux and DevOps share very similar cultures and perspectives; both are focused on customization and scalability. Both of these aspects of Linux are of particular importance for DevOps.
 
 A lot of technologies start on Linux, especially if they are related to software development or managing infrastructure.
